@@ -2,7 +2,7 @@
 
 Analyzing workforce demographics, compensation, engagement, and employee turnover to identify retention opportunities.
 
-![Dashboard Preview](https://raw.githubusercontent.com/Mohammed-Azhar-10/Employee-Attrition-Workforce-Analytics-Dashboard/main/Attrition%20Ananlysis/Main%20Dashboard.jpeg)
+![Dashboard Preview](https://raw.githubusercontent.com/Mohammed-Azhar-10/Employee-Attrition-and-Retention-Analysis/main/Attrition%20Ananlysis/Main%20Dashboard.jpeg)
 
 ---
 
@@ -64,7 +64,7 @@ The report contains three business-focused pages:
 
 Provides a high-level view of employee count, active employees, attrition, average income, age, departments, roles, and workforce demographics.
 
-![Workforce Overview](https://raw.githubusercontent.com/Mohammed-Azhar-10/Employee-Attrition-Workforce-Analytics-Dashboard/main/Attrition%20Ananlysis/Main%20Dashboard.jpeg)
+![Workforce Overview](https://raw.githubusercontent.com/Mohammed-Azhar-10/Employee-Attrition-and-Retention-Analysis/main/Attrition%20Ananlysis/Main%20Dashboard.jpeg)
 
 ### 2. Attrition Analysis
 
@@ -72,7 +72,7 @@ Examines employee turnover by department, job role, age, gender, tenure, income,
 
 Includes an interactive **Decomposition Tree** for exploring attrition patterns.
 
-![Attrition Analysis](https://raw.githubusercontent.com/Mohammed-Azhar-10/Employee-Attrition-Workforce-Analytics-Dashboard/main/Attrition%20Ananlysis/R%26D%20Dashboard%20-%20Page%202.jpeg)
+![Attrition Analysis](https://raw.githubusercontent.com/Mohammed-Azhar-10/Employee-Attrition-and-Retention-Analysis/main/Attrition%20Ananlysis/R%26D%20Dashboard%20-%20Page%202.jpeg)
 
 ### 3. HR Insights & Retention
 
